@@ -267,4 +267,7 @@ __pycache__/
 */Intermediate
 */Saved
 *.uasset
-*.umap
+
+/BuildingEscape/Content/StarterContent/Maps/Advanced_Lighting.umap
+/BuildingEscape/Content/StarterContent/Maps/Minimal_Default.umap
+/BuildingEscape/Content/StarterContent/Maps/StarterMap.umap
