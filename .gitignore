@@ -266,3 +266,5 @@ __pycache__/
 */DerivedDataCache
 */Intermediate
 */Saved
+*.uasset
+*.umap
